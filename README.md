@@ -6,3 +6,5 @@ quadrature_Sobolev.py -> Comparison of the quadratures DPPKQ, DPPUQ, LVSQ, Herdi
 quadrature_Sobolev_reader.py -> Read already done simulations using the previous file
 quadrature_Gaussian.py -> Comparison of the quadratures DPPKQ, Herding and BQ
 quadrature_Gaussian_reader.py -> Read already done simulations using the previous file
+
+
