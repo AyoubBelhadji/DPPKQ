@@ -1,6 +1,7 @@
 # DPPKQ
 ## Introduction
-DPPKQ is a Python library for reproducing the figures in the article "Kernel quadrature with DPPs"
+DPPKQ is a Python library for reproducing the figures in the article 
+> Belhadji, A. Bardenet, R. and Chainais, P. "Kernel quadrature with DPPs" (arXiv:1906.07832)
 
 ## Requirements
 
